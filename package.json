@@ -1,0 +1,13 @@
+{
+  "name": "chat2-server",
+  "version": "1.0.0",
+  "description": "This server is created for my second chat-app",
+  "main": "index.js",
+  "author": "andrew",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
